@@ -24,7 +24,7 @@ It was created to practice **JavaFX layouts**, **controller logic**, and **event
 
 ## 🖼️ Demo / Screenshot
 
-![Calculator Screenshot #1](.\assets\calculatrice_vide.png)
-![Calculator Screenshot #2](.\assets\calculatrice_img2.png)
-![Calculator Screenshot #3](.\assets\calculatrice_img3.png)
+![Calculator Screenshot #1](assets/calculatrice_vide.png)
+![Calculator Screenshot #2](assets/calculatrice_img2.png)
+![Calculator Screenshot #3](assets/calculatrice_img3.png)
 
